@@ -53,24 +53,6 @@ The project is designed to scale easily:
 
 ---
 
-## 🖼️ Diagrams
-
-- UML Class Diagram  
-  ![UML](UML.png)
-
-- Sequence Diagrams:
-  - Add Food Entry  
-    ![Add Entry](AddingFoodEntrytoDiary.png)
-  - View Calorie Summary  
-    ![Summary](ViewingCalorieSummary.png)
-  - Create Composite Food  
-    ![Composite](CreatingaCompositeFood.png)
-  - Undo Last Action  
-    ![Undo](UndoingLastAction.png)
-  - App Initialization  
-    ![Init](ApplicationInitialization.png)
-
----
 
 ## 🛠️ Built With
 
